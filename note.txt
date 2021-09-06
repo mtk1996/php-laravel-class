@@ -1,0 +1,22 @@
+PHP Array 
+
+Super Global Variable 
+
+Cookie And Session 
+
+Request http(GET POST PUT PATCH DELETE)
+
+Hashing Password
+
+PDO 
+
+upload file
+
+
+
+
+static method or properties
+Tait 
+namespace
+autoloading
+
